@@ -21,4 +21,12 @@
 ---
 
 ## 📁 Project Structure
-
+ani_py/
+├── assets/
+│ ├── github_logo.svg
+│ ├── hacker.svg
+│ ├── alert.svg
+│ ├── shield.svg
+│ └── researcher.svg
+├── ani_py.py # Main animation script
+├── README.md
